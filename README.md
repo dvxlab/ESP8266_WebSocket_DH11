@@ -1,4 +1,4 @@
-# ESP8266 WebServer Websocket DH11
+# ESP8266 Websocket DH11 - Bootstrap UI
 
 Use Arduino or PlatformIO IDE 
 
