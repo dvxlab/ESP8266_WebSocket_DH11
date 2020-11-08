@@ -8,6 +8,8 @@ Use Arduino or PlatformIO IDE
 3.Upload the HTML files using the below commands
 
 
+
+
 curl -F "file=@$PWD/index.html" 192.168.1.XX/upload
                     bootstrap.min.css
                     bootstrap.min.js
@@ -16,7 +18,8 @@ curl -F "file=@$PWD/index.html" 192.168.1.XX/upload
                     material-design-iconic-font.min.css
                     theme.css
                     
-#Here is the message format used for Websocket communication
+                    
+# Here is the message format used for Websocket communication
 RX
   {
     "message":"led"
@@ -32,6 +35,8 @@ TX
    "humidity":75,
   }
   
-#Screenshot
+  
+  
+# Screenshot
 
-![Image Main UI](https://github.com/dvxlab/ESP8266_WebServer_DH11/blob/main/screenshot/screenshot.png){:height="50%" width="50%"}
+![Image Main UI](https://github.com/dvxlab/ESP8266_WebServer_DH11/blob/main/screenshot/screenshot.png)
