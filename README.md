@@ -2,10 +2,10 @@
 
 Use Arduino or PlatformIO IDE 
 
-1.Set the Wifi Settings 
-2.Add the sensor libray
-3.Compile & download the firmware
-3.Upload the HTML files using the below commands
+1. Set the Wifi Settings 
+2. Add the sensor libray
+3. Compile & download the firmware
+3. Upload the HTML files using the below commands
 
 
 
