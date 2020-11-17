@@ -34,7 +34,7 @@ curl -X "DELETE" 192.168.1.XX/format
 #include <ESP8266WebServer.h>
 #include <FS.h>
 #include <WebSocketsServer.h>
-#include <Adafruit_MotorShield.h>
+#include <Wire.h>
 #include <ArduinoJson.h>
 #include "DHT.h"
 
